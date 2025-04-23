@@ -1,0 +1,35 @@
+.primary {
+    background-color: var(--accent-color);
+    color: var(--white-color);
+}
+
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.button:hover{
+    background-color: var(--accent-color-hover);
+}
+
+.icon{
+    color: var(--accent-color);
+    cursor: pointer;
+   
+
+}
+
+
+.secundary{
+    background-color: black;
+    color: white;
+}

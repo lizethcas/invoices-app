@@ -1,0 +1,73 @@
+{
+  "invoices": [
+    {
+      "id": "feed",
+      "street": "cl 76 #7788",
+      "city": "medellin",
+      "postalCode": "fghgf",
+      "country": "colombia",
+      "CLIENT": "lizeth castillo",
+      "AMOUNT": "25000",
+      "STATUS": "Pending",
+      "clientEmail": "sdfds@gmail.com",
+      "clientStreet": "sdfdsf",
+      "clientCity": "sdfdsf",
+      "clientPostalCode": "5169456",
+      "clientCountry": "dsf",
+      "idInvoice": "ND4154",
+      "invoiceDate": "2025-04-21"
+    },
+    {
+      "id": "feed2",
+      "street": "cl 76 #7788",
+      "city": "medellin",
+      "postalCode": "fghgf",
+      "country": "colombia",
+      "CLIENT": "Juan Pérez",
+      "AMOUNT": "35000",
+      "STATUS": "Paid",
+      "clientEmail": "juan@gmail.com",
+      "clientStreet": "Calle 123",
+      "clientCity": "Bogotá",
+      "clientPostalCode": "110111",
+      "clientCountry": "Colombia",
+      "idInvoice": "ND4155",
+      "invoiceDate": "2025-04-21"
+    },
+    {
+      "id": "a25f",
+      "street": "cl 76 #7788",
+      "city": "hfgh",
+      "postalCode": "sdfdsf",
+      "country": "sdfsdfds",
+      "CLIENT": "lizeth castillo",
+      "AMOUNT": "24999",
+      "STATUS": "Pending",
+      "clientEmail": "sdfds@gmail.com",
+      "clientStreet": "sdfdsf",
+      "clientCity": "fsdf",
+      "clientPostalCode": "56153",
+      "clientCountry": "colombia",
+      "idInvoice": "RR6388",
+      "invoiceDate": "2025-04-21"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "123456",
+      "username": "admin",
+      "role": "admin",
+      "type": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "email": "user@user.com",
+      "password": "123456",
+      "username": "user",
+      "role": "user",
+      "type": "user",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    }
+  ]
+}
