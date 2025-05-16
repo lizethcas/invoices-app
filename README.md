@@ -74,5 +74,4 @@ src/
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## Licencia
-Este proyecto está bajo la Licencia MIT.
+
