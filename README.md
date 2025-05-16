@@ -103,7 +103,7 @@ El proyecto utiliza json-server para simular una API REST con los siguientes end
 1. Fork el proyecto
 2. Crea una rama para tu feature (`git checkout -b feature/NuevaFuncionalidad`)
 3. Commit tus cambios (`git commit -m 'Añadir nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/NuevaFuncionalidad`)
+4. Push a la rama (`git push -u origin feature/NuevaFuncionalidad`)
 5. Abre un Pull Request
 
 
